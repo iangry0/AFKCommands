@@ -1,6 +1,6 @@
 # AFKCommands
 SpigotMC AFKCommands Plugin
-
+https://www.spigotmc.org/resources/%E2%AD%90-afk-commands-%E2%AD%90-set-a-command-when-a-player-goes-afk.71723/
 
 
  
