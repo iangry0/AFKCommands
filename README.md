@@ -1,0 +1,2 @@
+# AFKCommands
+SpigotMC AFKCommands Plugin
