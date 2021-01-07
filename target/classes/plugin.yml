@@ -1,0 +1,15 @@
+name: AFKCommand
+version: 1.1.2
+main: me.iangry.afk.Main
+author: iAngry
+api-version: 1.13
+description: Execute command on AFK
+depend: [Essentials]
+commands:
+  AFKCommand:
+    description: Help Command
+    usage: /<command> <args>
+    aliases: [afkc, afkmessage, commandonafk, afkcmd, afkcmds, afkcommands]
+permissions:
+  afkcommand.reload:
+    description: Reloads plugin config

@@ -1,0 +1,6 @@
+command-on-afk: 'warp limbo %player%'
+message-to-player-on-afk: '&c%player% you have been sent to the &4Limbo &cwarp for being idle'
+command-on-unafk: 'spawn %player%'
+disable-message: false
+message-to-player-on-unafk: '&c%player% you have been sent back to Spawn'
+checkUpdates: true
